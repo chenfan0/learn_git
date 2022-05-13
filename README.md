@@ -7,6 +7,6 @@
 - 提交工作区中指定文件到暂存区: `git add <file1> <file2> ...`
 - 提交工作区中某个文件夹中所有文件到暂存区: `git add [dir]`
 ### 撤销
-- 从暂存区中删除文件，但是工作区仍然有该文件: `git rm --cached <file>`
+- 撤销commit: `git rm --cached <file>`
 ## 暂存区上的操作命令
 - 修改提交的注释：`git commit --amend`
