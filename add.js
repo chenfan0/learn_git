@@ -7,3 +7,6 @@ console.log('111')
 const main = 'main'
 
 console.log('main')
+
+const b1 = 'branch b1'
+console.log(b1)
