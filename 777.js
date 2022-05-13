@@ -1,2 +1,2 @@
 const a = 'bbb'
-const b = '234'
+const b = {}
