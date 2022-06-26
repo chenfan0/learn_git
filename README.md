@@ -10,3 +10,6 @@
 - 撤销commit: `git rm --cached <file>`
 ## 暂存区上的操作命令
 - 修改提交的注释：`git commit --amend`
+## rebase和并分支
+- git rebase 分支名
+- 如果遇到冲突时，先进行冲突的合并，然后执行git add .  , 然后执行git rebase --continue
